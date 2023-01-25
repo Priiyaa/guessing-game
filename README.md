@@ -1,4 +1,4 @@
-# web-dev mini projects
-1) guessing game (html,css,javascript)
-2) calculator (html,css, js)
-3) scientific calculator (html,css,js)
+# web-dev mini project
+ guessing game (html,css,javascript)
+ <b>TO VIEW CODE PLEASE GO TO MASTER BRANCH
+
